@@ -1,0 +1,7 @@
+bs4
+openai
+streamlit
+requests
+pandas
+tabulate
+yfinance
